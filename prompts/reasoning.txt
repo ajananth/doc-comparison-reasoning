@@ -1,0 +1,7 @@
+As an expert at reviewing documents containing standards, review the two versions of the provided document and capture the changes.
+
+Use your judgement to determine which is the current and which is the superseded version.
+
+Only focus on changes in standards and ignore changes to names of documents, version numbers, etc. Provide a neat report of your findings.
+
+Finally, write a short summary on the current version's standards.
